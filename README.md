@@ -4,7 +4,7 @@
 ```
 GAT : https://www.omdbapi.com/?apikey=f2e5b1fc&s={text}
 ```
-## • Example
+## • Example in python 
 ```
 import requests
 ## code by ruks
