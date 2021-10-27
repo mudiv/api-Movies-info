@@ -5,7 +5,7 @@
 GAT : https://www.omdbapi.com/?apikey=f2e5b1fc&s={text}
 ```
 ## • Example in python 
-```
+```python 
 import requests
 ## code by ruks
 x =input("Enter the name of the movie")
